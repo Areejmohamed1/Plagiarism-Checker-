@@ -15,7 +15,7 @@ Then predicts whether the second text is plagiarized from the first.
 
 ---
 
-## 🤖 Model
+## Model
 
 * Pretrained transformer: `all-MiniLM-L6-v2`
 * Fine-tuned using PyTorch
@@ -36,7 +36,7 @@ Then predicts whether the second text is plagiarized from the first.
 
 ---
 
-## 📊 Results
+## Results
 
 * **Accuracy: 93.06%**
 
@@ -44,7 +44,7 @@ The model shows strong and balanced performance in detecting both plagiarized an
 
 ---
 
-## 📈 Training Curves
+## Training Curves
 
 ### Accuracy over Epochs
 ![Accuracy](Accuracy.PNG)
