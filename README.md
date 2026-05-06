@@ -79,6 +79,8 @@ Plagiarism probability: 0.9642
 * PyTorch
 * Transformers (HuggingFace)
 * Scikit-learn
+* Matplotlib
+* Pandas / NumPy
 
 ---
 
