@@ -14,7 +14,12 @@ This model takes two texts as input:
 Then predicts whether the second text is plagiarized from the first.
 
 ---
+## Dataset
+You can access and download it from Kaggle:
 
+🔗 https://www.kaggle.com/code/codingloading/plagiarism-checker-nlp/input
+
+---
 ## Model
 
 * Pretrained transformer: `all-MiniLM-L6-v2`
